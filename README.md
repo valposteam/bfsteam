@@ -1,4 +1,4 @@
 # bfsteam
 
-#assignment 1
+Assignment One
 Cool Stuff
